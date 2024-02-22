@@ -142,3 +142,28 @@ print(a)
 #리스트 안에 다시 리스트를 추가할 수있다.
 a.append([5, 6]) # 리스트의 맨 마지막이 [5,6]을 추
 print(a)
+
+<br>
+0222<br>
+aws a#650<br>
+
+재고 게시판<br>
+검색 수정 삭제 추가<br>
+aws는 무료 서버준다.<br>
+파이썬 취업처 없음<br>
+연동은 파이썬으로 한다.<br>
+★★★ 파이선교재 시작<br>
+★설치시 Add python.exe to Path 반드시 체크해라<br>
+3.117 64BIT 다운로드<br>
+
+ctrl + z로 나올수 있음<br>
+들여쓰기4칸(tap)<br>
+인텔리제이 나중에 사용<br>
+튜플 89p ,93p 딕셔너리, 집합자료형, bool자료형,input<br>
+183p import sys<br>
+● 웹크롤링: 웹페이지 분석해서 내 DB에 넣는거 <br>
+pyton.posStem분석하기<br>
+10-2에다 붙이고 main 더블클릭하면 실해된다.<br>
+주석 달아서 캡처후 시험봄<br>
+크롤링할때 파이썬사용<br>
+idle<br>
